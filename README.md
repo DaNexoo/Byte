@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/DaNexoo/Byte">
-    <img src="./assets/header-v1.svg" width="300" alt="Byte V1">
+    <img src="./assets/header.svg" width="300" alt="Byte V1">
   </a>
 </p>
 
