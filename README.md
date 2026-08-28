@@ -3,6 +3,6 @@
     <img src="./assets/header.svg" width="300" alt="Byte V1">
   </a>
   <br>
-  <img src="./assets/release.svg" width="110" alt="Release 1.0.0">
-  <img src="https://byte-stars.devnexoo.workers.dev/" width="110" alt="GitHub Stars">
+  <img src="./assets/release.svg" width="100" alt="Release 1.0.0">
+  <img src="https://byte-stars.devnexoo.workers.dev/" width="100" alt="GitHub Stars">
 </p>
