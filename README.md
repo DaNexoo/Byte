@@ -4,5 +4,6 @@
   </a>
 </p>
 
-Take control over AI, instead of letting AI control you.
-![Byte v2.0](https://badgewind.agmmnn.workers.dev/Byte%20v2.0?badgeStyle=bg-%5B%236366f1%5D,border-0,rounded-full&leftStyle=bg-,text-white,px-3,py-1&icon=mdi:tag&iconStyle=text-white,h-3.5,w-3.5&textShadow=false)
+<p align="center">
+  <img src="./assets/release.svg" width="178" height="44" alt="Release 1.0.0">
+</p>
