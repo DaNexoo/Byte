@@ -2,9 +2,11 @@
   <a href="https://github.com/DaNexoo/Byte">
     <img src="./assets/header.svg" width="300" alt="Byte V1">
   </a>
-  <br>
+</p>
+
+<p align="center">
   <img src="./assets/release.svg" width="100" alt="Release 1.0.0">
-  <img src="https://byte-stars.devnexoo.workers.dev/" width="100" alt="GitHub Stars">
+  <img src="https://byte-stars.devnexoo.workers.dev/" height="36" alt="GitHub Stars">
   <a href="YOUR_DOWNLOAD_LINK">
     <img src="./assets/download.svg" width="100" alt="Download">
   </a>
@@ -17,21 +19,23 @@
 </p>
 
 <p align="center">
-  Byte gives you more control over AI-generated content.
+  Byte is built to give you more control over AI-generated content.
 </p>
 
 <br>
 
 ## About
 
-Byte is built to give users more control over AI-generated content and the way it is processed.
+Byte is a lightweight tool focused on giving users more control over AI-generated content.
 
-The goal is simple: **AI should work for you — not the other way around.**
+The goal is simple:
+
+> **AI should work for you — not the other way around.**
 
 ## Features
 
 * Fast and lightweight
-* Simple workflow
+* Simple and clean workflow
 * Easy to use
 * Customizable
 * Open source
@@ -59,7 +63,7 @@ python main.py
 
 ## Contributing
 
-Contributions are welcome.
+Contributions, improvements, and suggestions are welcome.
 
 1. Fork the repository
 2. Create a new branch
