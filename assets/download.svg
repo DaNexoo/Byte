@@ -11,6 +11,6 @@
   <!-- Divider -->
   <rect x="42" y="10" width="1" height="24" fill="#fff" opacity=".18"></rect>
 
-  <!-- Label -->
-  <text x="54" y="28" fill="#fff" font-family="Inter,Arial,sans-serif" font-size="18" font-weight="600" letter-spacing="-0.4">Download</text>
+  <!-- Download -->
+  <text x="58" y="28" fill="#fff" font-family="Inter,Arial,sans-serif" font-size="18" font-weight="600" letter-spacing="-0.4">Download</text>
 </svg>
