@@ -4,4 +4,5 @@
   </a>
   <br>
   <img src="./assets/release.svg" width="88" alt="Release 1.0.0">
+  <img src="https://byte-stars.devnexoo.workers.dev/" width="88" alt="GitHub Stars">
 </p>
