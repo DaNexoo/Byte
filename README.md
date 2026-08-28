@@ -5,5 +5,5 @@
 </p>
 
 <p align="center">
-  <img src="./assets/release.svg" width="70" alt="Release 1.0.0">
+  <img src="./assets/release.svg" width="88" alt="Release 1.0.0">
 </p>
