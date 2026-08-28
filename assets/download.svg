@@ -1,0 +1,16 @@
+<svg width="178" height="44" viewBox="0 0 178 44" xmlns="http://www.w3.org/2000/svg">
+  <rect width="178" height="44" rx="9" fill="#000"></rect>
+
+  <!-- Download icon -->
+  <g transform="translate(14 12)" fill="none" stroke="#fff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M10 2V14"></path>
+    <path d="M5 10L10 15L15 10"></path>
+    <path d="M3 19H17"></path>
+  </g>
+
+  <!-- Divider -->
+  <rect x="42" y="10" width="1" height="24" fill="#fff" opacity=".18"></rect>
+
+  <!-- Label -->
+  <text x="54" y="28" fill="#fff" font-family="Inter,Arial,sans-serif" font-size="18" font-weight="600" letter-spacing="-0.4">Download</text>
+</svg>
