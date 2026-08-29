@@ -82,7 +82,7 @@
 <br>
 
 <details>
-<summary><strong>ByteOM-1.1.0 (PATCHED)</strong></summary>
+<summary><strong>ByteOM-1.1.0 (MAY WORK)</strong></summary>
 
 <br>
 
