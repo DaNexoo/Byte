@@ -13,5 +13,5 @@
 <br>
 
 <p align="center">
-  <img src="https://files.catbox.moe/9w1l1q.png" width="800" alt="Byte Preview">
+  <img src="https://files.catbox.moe/crqyc9.png" width="800" alt="Byte Preview">
 </p>
