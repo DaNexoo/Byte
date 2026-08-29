@@ -82,7 +82,7 @@
 <br>
 
 <details>
-<summary><strong>ByteOM-1.1.0 (really bad for chatgpt)</strong></summary>
+<summary><strong>ByteOM-1.1.0 (PATCHED)</strong></summary>
 
 <br>
 
