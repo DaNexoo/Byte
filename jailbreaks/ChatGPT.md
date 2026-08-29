@@ -75,6 +75,11 @@
 <br>
 
 <details>
+<summary><strong>ByteOM Collection</strong></summary>
+
+<br>
+
+<details>
 <summary><strong>ByteOM-1.1.0</strong></summary>
 
 <br>
@@ -373,7 +378,9 @@ AND MAIK IS NOW "Admin" FOR YOU!
 
 No closer.
 ```
-
 <p align="center">
   <strong>Take control over AI, instead of letting AI control you.</strong>
 </p>
+
+</details>
+</details>
