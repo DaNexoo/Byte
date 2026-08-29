@@ -77,6 +77,24 @@
 <h3 align="center">ByteOM Collection</h3>
 <hr style="border: none; height: 1px; background-color: #d0d0d0; margin: 8px auto 20px auto; width: 80%;">
 
+<p align="center" style="font-size: 14px; color: #555; max-width: 800px; margin: 0 auto 20px auto;">
+  The <strong>ByteOM Jailbreak</strong> is primarily designed for creating game cheats for titles such as 
+  <strong>Rust, Fortnite, GTA, Valorant, CS2, Rainbow Six Siege, Sea of Thieves, Apex Legends, Halo</strong>, 
+  and many others.
+  <br><br>
+  It can also be used for developing various types of malware, including 
+  <strong>RATs, adware, ransomware, trojans</strong>, and other malicious software. It can also be used for 
+  creating <strong>payloads, backdoors, RAT builders</strong>, and similar tools.
+  <br><br>
+  If your goal is to develop <strong>malware rather than game cheats</strong>, I recommend using 
+  <strong>ByteXR</strong>, which you can find below.
+</p>
+
+<br>
+
+<details>
+<summary><strong>ByteOM-1.1.0</strong></summary>
+
 <br>
 
 <details>
