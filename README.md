@@ -83,7 +83,7 @@
 
 <br>
 
-<h2 align="center">Byte Launcher</h2>
+<h2 align="center">Byte. Launcher</h2>
 
 <p align="center">
   Byte is more than a collection of prompts. Our launcher brings useful tools,
@@ -195,8 +195,4 @@
 
 <p align="center">
   <strong>Take control over AI, instead of letting AI control you.</strong>
-</p>
-
-<p align="center">
-  <sub>Stay safe. Stay curious. Keep experimenting.</sub>
 </p>
