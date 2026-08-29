@@ -14,7 +14,7 @@
 
 <hr>
 
-<h1 align="center">Byte Bypasses</h1>
+<h1 align="center">Byte.</h1>
 
 <p align="center">
   <strong>Take control over AI instead of letting AI control you.</strong>
@@ -192,7 +192,3 @@
 <br>
 
 <hr>
-
-<p align="center">
-  <strong>Take control over AI, instead of letting AI control you.</strong>
-</p>
