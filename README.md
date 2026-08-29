@@ -13,5 +13,5 @@
 <br>
 
 <p align="center">
-  <img src="YOUR_CATBOX_RAW_PNG_URL" width="800" alt="Byte Preview">
+  <img src="https://files.catbox.moe/i5s09o.png" width="800" alt="Byte Preview">
 </p>
