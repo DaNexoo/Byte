@@ -74,7 +74,7 @@
 
 <br>
 
-<h3 align="center">ByteOM Collection</h3>
+<h3>ByteOM Collection</h3>
 
 <br>
 
