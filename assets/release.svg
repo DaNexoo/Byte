@@ -1,7 +1,62 @@
 <svg width="178" height="44" viewBox="0 0 178 44" xmlns="http://www.w3.org/2000/svg">
-  <rect width="178" height="44" rx="9" fill="#000"></rect>
+  <defs>
+    <!-- Dark blue-black base -->
+    <linearGradient id="bg" x1="0" y1="0" x2="178" y2="44">
+      <stop offset="0%" stop-color="#030711"></stop>
+      <stop offset="55%" stop-color="#050B18"></stop>
+      <stop offset="100%" stop-color="#080D1C"></stop>
+    </linearGradient>
 
-  <!-- Tag -->
+    <!-- Blue atmosphere -->
+    <radialGradient id="blueAtmosphere" cx="70%" cy="45%" r="70%">
+      <stop offset="0%" stop-color="#10285C" stop-opacity=".28"></stop>
+      <stop offset="45%" stop-color="#0A1839" stop-opacity=".14"></stop>
+      <stop offset="100%" stop-color="#030711" stop-opacity="0"></stop>
+    </radialGradient>
+
+    <!-- Wave glow -->
+    <filter id="waveGlow" x="-30%" y="-200%" width="160%" height="500%">
+      <feGaussianBlur stdDeviation="3.2"></feGaussianBlur>
+    </filter>
+
+    <filter id="waveGlowSoft" x="-30%" y="-200%" width="160%" height="500%">
+      <feGaussianBlur stdDeviation="6"></feGaussianBlur>
+    </filter>
+
+    <linearGradient id="wave" x1="0" y1="0" x2="178" y2="0">
+      <stop offset="0%" stop-color="#244DFF" stop-opacity="0"></stop>
+      <stop offset="18%" stop-color="#315CFF" stop-opacity=".55"></stop>
+      <stop offset="45%" stop-color="#315CFF" stop-opacity=".95"></stop>
+      <stop offset="70%" stop-color="#4A63FF" stop-opacity=".65"></stop>
+      <stop offset="100%" stop-color="#315CFF" stop-opacity="0"></stop>
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="178" height="44" rx="9" fill="url(#bg)"></rect>
+
+  <!-- Blue atmosphere -->
+  <rect width="178" height="44" rx="9" fill="url(#blueAtmosphere)"></rect>
+
+  <!-- Soft wave glow -->
+  <path d="M-12 17
+       C18 31, 40 32, 62 20
+       C83 9, 101 8, 122 19
+       C145 31, 164 29, 190 14" fill="none" stroke="#1748FF" stroke-width="3" opacity=".32" filter="url(#waveGlowSoft)"></path>
+
+  <!-- Main wave glow -->
+  <path d="M-12 17
+       C18 31, 40 32, 62 20
+       C83 9, 101 8, 122 19
+       C145 31, 164 29, 190 14" fill="none" stroke="#2450FF" stroke-width="1.8" opacity=".55" filter="url(#waveGlow)"></path>
+
+  <!-- Thin neon wave -->
+  <path d="M-12 17
+       C18 31, 40 32, 62 20
+       C83 9, 101 8, 122 19
+       C145 31, 164 29, 190 14" fill="none" stroke="url(#wave)" stroke-width="0.8" opacity=".85"></path>
+
+  <!-- Release tag icon -->
   <g transform="translate(14 12)" fill="none" stroke="#fff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
     <path d="M2 4V12L9 19L19 9L12 2H4A2 2 0 0 0 2 4Z"></path>
     <circle cx="6.5" cy="6.5" r="1.4" fill="#fff" stroke="none"></circle>
