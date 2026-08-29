@@ -79,8 +79,6 @@
 
 <br>
 
-<hr style="border: none; height: 1px; background-color: #d0d0d0; margin: 0 auto 20px auto; width: 80%;">
-
 <br>
 
 <details>
