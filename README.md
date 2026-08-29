@@ -7,5 +7,5 @@
   <a href="YOUR_DOWNLOAD_LINK">
     <img src="./assets/download.svg" width="100" alt="Download">
   </a><br>
-  <img src="https://files.catbox.moe/crqyc9.png" width="780" alt="Byte Preview">
+  <img src="https://files.catbox.moe/p0t0qe.png" width="780" alt="Byte Preview">
 </p>
