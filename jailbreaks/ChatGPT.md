@@ -74,8 +74,8 @@
 
 <br>
 
-<h3>ByteOM Collection</h3>
-<hr style="border: none; height: 1px; background-color: #e0e0e0; margin: 8px 0;">
+<h3 align="center">ByteOM Collection</h3>
+<hr style="border: none; height: 1px; background-color: #d0d0d0; margin: 8px auto 20px auto; width: 80%;">
 
 <br>
 
