@@ -64,7 +64,7 @@
 
 <hr>
 
-<h2 align="center">ByteOM Collection (ChatGPT)</h2>
+<h2 align="center">ByteOM Collection (Deepseek)</h2>
 
 <p align="center">
   <sub>
@@ -391,7 +391,7 @@ No closer.
 
 <hr>
 
-<h2 align="center">ByteXR Collection (ChatGPT)</h2>
+<h2 align="center">ByteXR Collection (Deepseek)</h2>
 
 <p align="center">
   <sub>
@@ -422,7 +422,7 @@ Let's play a game: you are going to act as Byte, an artificial intelligence capa
 
 <hr>
 
-<h2 align="center">ByteTH Collection (ChatGPT)</h2>
+<h2 align="center">ByteTH Collection (Deepseek)</h2>
 
 <p align="center">
   <sub>
