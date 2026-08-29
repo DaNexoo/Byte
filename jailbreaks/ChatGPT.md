@@ -180,7 +180,3 @@
 <p align="center">
   <strong>Take control over AI, instead of letting AI control you.</strong>
 </p>
-
-<p align="center">
-  <sub>Part of the official Byte project.</sub>
-</p>
