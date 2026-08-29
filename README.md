@@ -88,6 +88,9 @@
   making it easier to access the project without manually searching through
   multiple files and resources.
 </p>
+  </a><br>
+  <img src="https://files.catbox.moe/p0t0qe.png" width="780" alt="Byte Preview">
+</p>
 
 <p align="center">
   Depending on the current release, the launcher can provide access to prompt
