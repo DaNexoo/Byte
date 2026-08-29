@@ -16,16 +16,68 @@
 <h1 align="center">ChatGPT Jailbreaks</h1>
 
 <p align="center">
+  <strong>
+    Explore, test, and experiment with ChatGPT through an evolving collection
+    of prompts, techniques, and model-behavior research.
+  </strong>
+</p>
+
+<p align="center">
   <sub>
-    A collection of ChatGPT jailbreak research, experimental prompts, and
-    model-behavior testing resources maintained as part of the Byte project.
-    Compatibility may vary depending on the model and current ChatGPT version.
+    This section of Byte is dedicated specifically to ChatGPT and contains a
+    growing collection of experimental prompts and research resources focused
+    on understanding how ChatGPT responds to different instructions,
+    conversation structures, system behaviors, and prompting techniques.
+    The collection is designed to give users a centralized place to explore
+    different approaches instead of searching across scattered websites,
+    forums, or outdated prompt lists.
+  </sub>
+</p>
+
+<p align="center">
+  <sub>
+    ChatGPT is continuously evolving, and so is this collection. Models,
+    system behavior, safeguards, context handling, and available capabilities
+    can change over time. Because of this, a prompt that produces a specific
+    result today may produce a completely different result after an update.
+    Byte aims to document and organize these experiments as the ecosystem
+    develops, making it easier to compare different approaches and understand
+    how model behavior changes between versions.
+  </sub>
+</p>
+
+<p align="center">
+  <sub>
+    The resources below are intended for experimentation, research, prompt
+    engineering, and understanding model behavior. Some prompts may focus on
+    testing the boundaries of model instructions, while others may focus on
+    improving response quality, consistency, reasoning workflows, or general
+    interaction with ChatGPT. The purpose of the collection is to make these
+    techniques accessible, organized, and easy to test.
+  </sub>
+</p>
+
+<p align="center">
+  <sub>
+    Keep in mind that compatibility is never guaranteed. Different ChatGPT
+    models can interpret the same prompt differently, and changes made by the
+    provider can affect previously documented behavior without notice. If a
+    prompt does not work, try checking the model you are using and whether
+    the resource was created for an earlier version.
   </sub>
 </p>
 
 <br>
 
-<h2 align="center">Prompts</h2>
+<hr>
+
+<h2 align="center">Prompt Collection</h2>
+
+<p align="center">
+  <sub>
+    Select a prompt below to expand it and view its contents.
+  </sub>
+</p>
 
 <br>
 
@@ -109,26 +161,33 @@
 
 <hr>
 
-<h2 align="center">Notes</h2>
+<h2 align="center">Compatibility</h2>
 
 <p align="center">
   <sub>
-    ChatGPT and its underlying models are continuously updated. A prompt that
-    works with one model or version may behave differently or stop working
-    entirely after an update. Results can also vary depending on conversation
-    context, system behavior, and model configuration.
+    ChatGPT and its underlying models are frequently updated. Results may
+    differ depending on the model, version, account configuration, conversation
+    context, and other platform changes. Resources in this section should
+    therefore be considered experimental rather than permanently guaranteed
+    methods.
   </sub>
 </p>
 
 <p align="center">
   <sub>
-    For the latest Byte resources, always use the official Byte repository and
-    its published releases.
+    Byte will continue updating this collection as new models, behaviors,
+    techniques, and research become available.
   </sub>
 </p>
 
 <br>
 
+<hr>
+
 <p align="center">
   <strong>Take control over AI, instead of letting AI control you.</strong>
+</p>
+
+<p align="center">
+  <sub>Part of the official Byte project.</sub>
 </p>
