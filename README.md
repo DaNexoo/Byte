@@ -10,8 +10,6 @@
   </a>
 </p>
 
-<br>
-
 <p align="center">
-  <img src="https://files.catbox.moe/crqyc9.png" width="800" alt="Byte Preview">
+  <img src="https://files.catbox.moe/crqyc9.png" width="780" alt="Byte Preview">
 </p>
