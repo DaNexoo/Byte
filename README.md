@@ -9,3 +9,15 @@
   </a><br>
   <img src="https://files.catbox.moe/p0t0qe.png" width="780" alt="Byte Preview">
 </p>
+
+<hr>
+
+<h2 align="center">Byte Bypasses</h2>
+
+<p align="center">
+  <sub>
+    A collection of Byte-related bypass research, experiments, and resources.
+    This section documents the project, its purpose, supported features, and
+    relevant technical information in one place.
+  </sub>
+</p>
