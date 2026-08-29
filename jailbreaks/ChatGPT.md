@@ -16,13 +16,6 @@
 <h1 align="center">ChatGPT Jailbreaks</h1>
 
 <p align="center">
-  <strong>
-    Explore, test, and experiment with ChatGPT through an evolving collection
-    of prompts, techniques, and model-behavior research.
-  </strong>
-</p>
-
-<p align="center">
   <sub>
     This section of Byte is dedicated specifically to ChatGPT and contains a
     growing collection of experimental prompts and research resources focused
